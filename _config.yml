@@ -1,8 +1,15 @@
 title: Evolution for Everyone
-description: A starter template for a Jeykll site using the Just the Docs theme!
+
 theme: just-the-docs
 
 url: https://Evolution-for-Everyone.github.io
+
+nav_enabled: true
+
+# External navigation links
+nav_external_links:
+  - title: Evolution for Everyone on GitHub
+    url: https://github.com/Evolution-for-Everyone/
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
