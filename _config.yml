@@ -6,6 +6,8 @@ url: https://Evolution-for-Everyone.github.io
 
 nav_enabled: true
 
+docs_dir: docs
+
 # External navigation links
 nav_external_links:
   - title: Evolution for Everyone on GitHub
