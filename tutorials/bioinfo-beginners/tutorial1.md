@@ -1,5 +1,6 @@
 ---
 title: Introduction to command line and bash
+layout: default 
 nav_order: 1
 parent: Bioinformatics for Beginners
 grand_parent: Tutorials
