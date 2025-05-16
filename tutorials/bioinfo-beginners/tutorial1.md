@@ -1,3 +1,12 @@
+---
+title: Introduction to command line and bash
+nav_order: 1
+parent: Bioinformatics for Beginners
+grand_parent: Tutorials
+---
+
+# Tutorial 1: Introduction to command line and bash
+
 ## Learning goals
 * [Opening the terminal](https://github.com/Evolution-for-Everyone/bioinformatics-for-everyone/wiki/Tutorial-1:-Introduction-to-command-line-and-bash#1-opening-the-terminal)
 * [The structure of the terminal](https://github.com/Evolution-for-Everyone/bioinformatics-for-everyone/wiki/Tutorial-1:-Introduction-to-command-line-and-bash#2-the-structure-of-the-terminal)
